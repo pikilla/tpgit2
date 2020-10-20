@@ -1,3 +1,3 @@
 # Prerequisites
-*.jpg
-!(*.html)
+*.*
+!*.html
